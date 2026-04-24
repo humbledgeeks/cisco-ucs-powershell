@@ -14,7 +14,7 @@
     Date    : 2026-03-16
     Version : 1.0
     Module  : Cisco.UCSManager
-    Repo    : infra-automation/Cisco/UCS/PowerShell
+    Repo    : cisco-ucs-powershell
 #>
 
 [CmdletBinding()]
